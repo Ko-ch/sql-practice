@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e1949f-203f-43b6-ae0c-75d638ecb299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sample05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample05.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sample04">
+  <component name="RunManager" selected="Python.sample05">
     <configuration name="sample01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sql-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +128,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sql-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample05" />
         <item itemvalue="Python.sample04" />
         <item itemvalue="Python.sample03" />
         <item itemvalue="Python.sample02" />
@@ -211,8 +233,26 @@
       <option name="project" value="LOCAL" />
       <updated>1569417776416</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SQLのプラグインをダウンロードしました">
+      <created>1569418158342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569418158342</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -221,7 +261,8 @@
     <MESSAGE value="sample03をつくるよー&#10;tupleを使用するみたい" />
     <MESSAGE value="sample04をつくるよー" />
     <MESSAGE value="初めてのwith文" />
-    <option name="LAST_COMMIT_MESSAGE" value="初めてのwith文" />
+    <MESSAGE value="SQLのプラグインをダウンロードしました" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQLのプラグインをダウンロードしました" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

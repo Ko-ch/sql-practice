@@ -1,5 +1,20 @@
+import sqlite3
+
+
 def main():
-    pass
+    with open("schema.sql", mode="r") as f:
+        sql = f.read()
+
+    # print(sql)
+
+    conn = sqlite3.connect('sample.db')
+    cursor = conn.cursor()
+
+    cursor.execute(sql)
+
+    conn.commit()
+
+    conn.close()
 
 
 if __name__ == "__main__":
