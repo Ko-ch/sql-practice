@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e1949f-203f-43b6-ae0c-75d638ecb299" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sample01.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample03.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/users.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/users.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users_db.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/users_db.sqlite" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sql-practice" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sample03">
+  <component name="RunManager" selected="Python.sample04">
     <configuration name="sample01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sql-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +111,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sql-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample04" />
         <item itemvalue="Python.sample03" />
-        <item itemvalue="Python.sample01" />
         <item itemvalue="Python.sample02" />
+        <item itemvalue="Python.sample01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569376504272</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sample03をつくるよー&#10;tupleを使用するみたい">
+      <created>1569376781137</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569376781137</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

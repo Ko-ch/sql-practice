@@ -6,7 +6,7 @@ import sqlite3
 
 
 def main():
-    conn = sqlite3.connect('users_db.sqlite')
+    conn = sqlite3.connect('users.sqlite')
     cursor = conn.cursor()
 
     sql = "INSERT INTO users (name, age) VALUES('Bob', 15);"
