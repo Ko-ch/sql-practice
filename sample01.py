@@ -6,7 +6,8 @@ import sqlite3
 
 
 def main():
-    conn = sqlite3.connect('users_db.sqlite')
+    # conn = sqlite3.connect('users_db.sqlite')
+    conn = sqlite3.connect('users.sqlite')
     cursor = conn.cursor()
 
     # SQLの準備

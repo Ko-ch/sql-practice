@@ -8,9 +8,20 @@ Kenさんは77歳です
 って出力するやーつ
 """
 
+import sqlite3
+
 
 def main():
-    pass
+    conn = sqlite3.connect("users.sqlite")
+    cursor = conn.cursor()
+
+    sql = "SELECT * FROM users"
+
+    cursor.execute(sql)
+
+    conn.commit()
+
+    conn.close()
 
 
 if __name__ == "__main__":
