@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e1949f-203f-43b6-ae0c-75d638ecb299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sample03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample02.py" beforeDir="false" afterPath="$PROJECT_DIR$/sample02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,13 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569373592225</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="初めてのINSERT文を発行した">
+      <created>1569375162634</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569375162634</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="SQLの作成をしました" />
-    <option name="LAST_COMMIT_MESSAGE" value="SQLの作成をしました" />
+    <MESSAGE value="初めてのINSERT文を発行した" />
+    <option name="LAST_COMMIT_MESSAGE" value="初めてのINSERT文を発行した" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
